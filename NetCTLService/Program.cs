@@ -17,7 +17,7 @@ namespace NetCTLService
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new NetCTLService()
+                new NetCTLService() 
             };
             ServiceBase.Run(ServicesToRun);
         }

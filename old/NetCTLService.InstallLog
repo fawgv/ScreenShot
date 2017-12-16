@@ -1,0 +1,37 @@
+﻿Выполняется установка сборки 'C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.exe
+   logfile = C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.InstallLog
+Устанавливается служба NetCTLService...
+Создается исходный EventLog NetCTLService в журнале Application...
+Выполняется откат для сборки 'C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.exe
+   logfile = C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника NetCTLService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.exe
+   logfile = C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.InstallLog
+Устанавливается служба NetCTLService...
+Служба NetCTLService успешно установлена.
+Создается исходный EventLog NetCTLService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.exe
+   logfile = C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.InstallLog
+Выполняется удаление сборки 'C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.exe
+   logfile = C:\Users\user\Desktop\Samples\ScreenShot\Repos\EndRelease\NetCTLService.InstallLog
+Выполняется удаление источника EventLog NetCTLService.
+Выполняется удаление службы NetCTLService из системы...
+Служба NetCTLService успешно удалена из системы.
